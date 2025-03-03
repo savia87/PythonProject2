@@ -1,0 +1,6 @@
+*.xlsx  # Ignore Excel files
+__pycache__/  # Ignore Python cache files
+*.pyc
+*.log  # Ignore log files, if any
+env/  # Ignore virtual environment folders, if used
+venv/  # Ignore virtual environment folders, if used
